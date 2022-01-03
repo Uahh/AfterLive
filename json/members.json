@@ -1,0 +1,420 @@
+{
+    "Nitta_Emi": {
+        "name": "新田惠海",
+        "japanese_name": "新田 恵海",
+        "roman": "Nitta Emi",
+        "color": "#FFAE00",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Nitta_Emi"
+    },
+    "Nanjo_Yoshino": {
+        "name": "南条爱乃",
+        "japanese_name": "南條 愛乃",
+        "roman": "Nanjō Yoshino",
+        "color": "#00BBFF",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Nanjo_Yoshino"
+    },
+    "Uchida_Aya": {
+        "name": "内田彩",
+        "japanese_name": "内田 彩",
+        "roman": "Uchida Aya",
+        "color": "#A8A8A8",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Uchida_Aya"
+    },
+    "Mimori_Suzuko": {
+        "name": "三森铃子",
+        "japanese_name": "三森すずこ",
+        "roman": "Mimori Suzuko",
+        "color": "#6D56FF",
+        "group": [
+            "lily white",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Mimori_Suzuko"
+    },
+    "Iida_Riho": {
+        "name": "饭田里穗",
+        "japanese_name": "飯田 里穂",
+        "roman": "Iida Riho",
+        "color": "#FEE155",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Iida_Riho"
+    },
+    "Pile": {
+        "name": "Pile",
+        "japanese_name": "Pile",
+        "roman": "Hori Eriko",
+        "color": "#FF6239",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Pile"
+    },
+    "Kusuda_Aina": {
+        "name": "楠田亚衣奈",
+        "japanese_name": "楠田 亜衣奈",
+        "roman": "Kusuda Aina",
+        "color": "#E44FFF",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Kusuda_Aina"
+    },
+    "Kubo_Yurika": {
+        "name": "久保由利香",
+        "japanese_name": "久保 ユリカ",
+        "roman": "Kubo Yurika",
+        "color": "#44CD71",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Kubo_Yurika"
+    },
+    "Tokui_Sora": {
+        "name": "德井青空",
+        "japanese_name": "徳井 青空",
+        "roman": "Tokui Sora",
+        "color": "#FF62DD",
+        "group": [
+            "",
+            "μ's"
+        ],
+        "picture": "picture/μ's/Tokui_Sora"
+    },
+    "Inami_Anju": {
+        "name": "伊波杏树",
+        "japanese_name": "伊波 杏樹",
+        "roman": "Inami Anju",
+        "color": "#FF9933",
+        "group": [
+            "Cyaron!",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Inami_Anju"
+    },
+    "Aida_Rikako": {
+        "name": "逢田梨香子",
+        "japanese_name": "逢田 梨香子",
+        "roman": "Aida Rikako",
+        "color": "#FF7777",
+        "group": [
+            "Guilty Kiss",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Aida_Rikako"
+    },
+    "Suwa_Nanaka": {
+        "name": "诹访奈奈香",
+        "japanese_name": "諏訪 ななか",
+        "roman": "Suwa Nanaka",
+        "color": "#00D29E",
+        "group": [
+            "AZALEA",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Suwa_Nanaka"
+    },
+    "Komiya_Arisa": {
+        "name": "小宫有纱",
+        "japanese_name": "小宮 有紗",
+        "roman": "Komiya Arisa",
+        "color": "#F43232",
+        "group": [
+            "AZALEA",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Komiya_Arisa"
+    },
+    "Saito_Shuka": {
+        "name": "齐藤朱夏",
+        "japanese_name": "斉藤 朱夏",
+        "roman": "Saitō Shuka",
+        "color": "#2AA4DB",
+        "group": [
+            "Cyaron!",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Saito_Shuka"
+    },
+    "Kobayashi_Aika": {
+        "name": "小林爱香",
+        "japanese_name": "小林 愛香",
+        "roman": "Kobayashi Aika",
+        "color": "#AEAEAE",
+        "group": [
+            "Guilty Kiss",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Kobayashi_Aika"
+    },
+    "Takatsuki_Kanako": {
+        "name": "高槻加奈子",
+        "japanese_name": "高槻 かなこ",
+        "roman": "Takatsuki Kanako",
+        "color": "#CFBA0F",
+        "group": [
+            "AZALEA",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Takatsuki_Kanako"
+    },
+    "Suzuki_Aina": {
+        "name": "铃木爱奈",
+        "japanese_name": "鈴木 愛奈",
+        "roman": "Suzuki Aina",
+        "color": "#A530E0",
+        "group": [
+            "Guilty Kiss",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Suzuki_Aina"
+    },
+    "Furihata_Ai": {
+        "name": "降幡爱",
+        "japanese_name": "降幡 愛",
+        "roman": "Furihata Ai",
+        "color": "#EE55B7",
+        "group": [
+            "Cyaron!",
+            "Aqours"
+        ],
+        "picture": "picture/Aqours/Furihata_Ai"
+    },
+    "Sato_Hinata": {
+        "name": "佐藤日向",
+        "japanese_name": "佐藤 日向",
+        "roman": "Sato Hinata",
+        "color": "#BBBBBB",
+        "group": [
+            "",
+            "Saint Snow"
+        ],
+        "picture": "picture/Saint_Snow/Sato_Hinata"
+    },
+    "Tano_Asami": {
+        "name": "田野麻美",
+        "japanese_name": "田野 アサミ",
+        "roman": "Tano Asami",
+        "color": "#00CCFF",
+        "group": [
+            "",
+            "Saint Snow"
+        ],
+        "picture": "picture/Saint_Snow/Tano_Asami"
+    },
+    "Onishi_Aguri": {
+        "name": "大西亚玖璃",
+        "japanese_name": "大西 亜玖璃",
+        "roman": "Ōnishi Aguri",
+        "color": "#ED7D95",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Onishi_Aguri"
+    },
+    "Sagara_Mayu": {
+        "name": "相良茉优",
+        "japanese_name": "相良 茉優",
+        "roman": "Sagara Mayu",
+        "color": "#E7D600",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Sagara_Mayu"
+    },
+    "Maeda_Kaori": {
+        "name": "前田佳织里",
+        "japanese_name": "前田 佳織里",
+        "roman": "Maeda Kaori",
+        "color": "#01B7ED",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイド ル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Maeda_Kaori"
+    },
+    "Kubota_Miyu": {
+        "name": "久保田未梦",
+        "japanese_name": "久保田 未夢",
+        "roman": "Kubota Miyu",
+        "color": "#485EC6",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Kubota_Miyu"
+    },
+    "Murakami_Natsumi": {
+        "name": "村上奈津实",
+        "japanese_name": "村上 奈津実",
+        "roman": "Murakami Natsumi",
+        "color": "#FF5800",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Murakami_Natsumi"
+    },
+    "Kito_Akari": {
+        "name": "鬼头明里",
+        "japanese_name": "鬼頭 明里",
+        "roman": "Kito Akari",
+        "color": "#A664A0",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Kito_Akari"
+    },
+    "Kusunoki_Tomori": {
+        "name": "楠木灯",
+        "japanese_name": "楠木 ともり",
+        "roman": "Kusunoki Tomori",
+        "color": "#D81C2F",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Kusunoki_Tomori"
+    },
+    "Sashide_Maria": {
+        "name": "指出毬亚",
+        "japanese_name": "指出 毬亜",
+        "roman": "Sashide Maria",
+        "color": "#84C36E",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Sashide_Maria"
+    },
+    "Tanaka_Chiemi": {
+        "name": "田中千惠美",
+        "japanese_name": "田中 ちえ美",
+        "roman": "Tanaka Chiemi",
+        "color": "#9CA5B9",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル 同好会"
+        ],
+        "picture": "picture/Nijigasaki/Tanaka_Chiemi"
+    },
+    "Koizumi_Moeka": {
+        "name": "小泉萌香",
+        "japanese_name": "小泉 萌香",
+        "roman": "Koizumi Moeka",
+        "color": "#37B484",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Koizumi_Moeka"
+    },
+    "Uchida_Shu": {
+        "name": "内田秀",
+        "japanese_name": "内田 秀",
+        "roman": "Uchida Shū",
+        "color": "#A9A898",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Uchida_Shu"
+    },
+    "Houmoto_Akina": {
+        "name": "法元明菜",
+        "japanese_name": "法元 明菜",
+        "roman": "Houmoto Akina",
+        "color": "#F69992",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Houmoto_Akina"
+    },
+    "Yano_Hinaki": {
+        "name": "矢野妃菜喜",
+        "japanese_name": "矢野 妃菜喜",
+        "roman": "Yano Hinaki",
+        "color": "#000000",
+        "group": [
+            "",
+            "虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "picture": "picture/Nijigasaki/Yano_Hinaki"
+    },
+    "Date_Sayuri": {
+        "name": "伊达小百合",
+        "japanese_name": "伊達 さゆり",
+        "roman": "Date Sayuri",
+        "color": "#FF7F27",
+        "group": [
+            "",
+            "Liella"
+        ],
+        "picture": "picture/Liella/Date_Sayuri"
+    },
+    "Liyuu": {
+        "name": "Liyuu",
+        "japanese_name": "Liyuu",
+        "roman": "Liyuu",
+        "color": "#A0FFF9",
+        "group": [
+            "",
+            "Liella"
+        ],
+        "picture": "picture/Liella/Liyuu"
+    },
+    "Misaki_Nako": {
+        "name": "岬奈子",
+        "japanese_name": "岬 なこ",
+        "roman": "Misaki Nako",
+        "color": "#FF6E90",
+        "group": [
+            "",
+            "Liella"
+        ],
+        "picture": "picture/Liella/Misaki_Nako"
+    },
+    "Payton_Naomi": {
+        "name": "Payton尚未",
+        "japanese_name": "ペイトン 尚未",
+        "roman": "Payton Naomi",
+        "color": "#74F466",
+        "group": [
+            "",
+            "Liella"
+        ],
+        "picture": "picture/Liella/Payton_Naomi"
+    },
+    "Aoyama_Nagisa": {
+        "name": "青山渚",
+        "japanese_name": "青山 なぎさ",
+        "roman": "Aoyama Nagisa",
+        "color": "#0000A0",
+        "group": [
+            "",
+            "Liella"
+        ],
+        "picture": "picture/Liella/Aoyama_Nagisa"
+    }
+}

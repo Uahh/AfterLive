@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl@2/dist/echarts-gl.min.js"></script>
+</head>
+
+<body style="height: 100%; margin: 0">
+    <div id="main" style="height: 100%"></div>
+    <script type="text/javascript">
+        var ROOT_PATH =
+            'http://192.168.31.11:173';
+
+        var chartDom = document.getElementById('main');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        myChart.showLoading();
+        $.getJSON(ROOT_PATH + '/data', function (graph) {
+            myChart.hideLoading();
+            graph.nodes.forEach(function (node) {
+                node.label = {
+                    show: node.symbolSize > 0,
+                };
+            });
+            option = {
+                title: {
+                    text: 'countdown',
+                    subtext: 'Circular layout',
+                    top: 'bottom',
+                    left: 'right'
+                },
+                tooltip: {
+                    position: 'right',
+                    trigger: 'item',
+                    borderRadius: 8,//边框圆角
+                    formatter: function (params) {
+                        // console.log(params)
+                        res = ""
+                        res = params.value
+                        // console.log(res)
+                        return res;
+                    },
+                },
+                legend: [
+                    {
+                        data: graph.categories.map(function (a) {
+                            return a.name;
+                        })
+                    }
+                ],
+                animationDurationUpdate: 1500,
+                animationEasingUpdate: 'quinticInOut',
+                series: [
+                    {
+                        name: 'Les Miserables',
+                        type: 'graph',
+                        layout: 'circular',
+                        circular: {
+                            rotateLabel: true
+                        },
+                        data: graph.nodes,
+                        links: graph.links,
+                        categories: graph.categories,
+                        roam: true,
+                        label: {
+                            position: 'right',
+                            formatter: '{b}',
+                        },
+                        lineStyle: {
+                            color: 'source',
+                            curveness: 0.3
+                        },
+                        color: [
+                            "#FFAE00",
+                            "#00BBFF",
+                            "#A8A8A8",
+                            "#6D56FF",
+                            "#FEE155",
+                            "#FF6239",
+                            "#E44FFF",
+                            "#44CD71",
+                            "#FF62DD",
+                            "#FF9933",
+                            "#FF7777",
+                            "#00D29E",
+                            "#F43232",
+                            "#2AA4DB",
+                            "#AEAEAE",
+                            "#CFBA0F",
+                            "#A530E0",
+                            "#EE55B7",
+                            "#BBBBBB",
+                            "#00CCFF",
+                            "#ED7D95",
+                            "#E7D600",
+                            "#01B7ED",
+                            "#485EC6",
+                            "#FF5800",
+                            "#A664A0",
+                            "#D81C2F",
+                            "#84C36E",
+                            "#9CA5B9",
+                            "#37B484",
+                            "#A9A898",
+                            "#F69992",
+                            "#000000",
+                            "#FF7F27",
+                            "#A0FFF9",
+                            "#FF6E90",
+                            "#74F466",
+                            "#0000A0"
+                        ]
+                    },
+                ],
+
+            };
+            myChart.setOption(option);
+        });
+        option && myChart.setOption(option);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,431 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "name": "新田 恵海",
+            "symbolSize": 24,
+            "category": 0,
+            "key":"Nitta_Emi",
+            "value": ""
+        },
+        {
+            "id": "1",
+            "name": "南條 愛乃",
+            "symbolSize": 24,
+            "category": 1,
+            "key": "Nanjo_Yoshino",
+            "value": ""
+        },
+        {
+            "id": "2",
+            "name": "内田 彩",
+            "symbolSize": 24,
+            "category": 2,
+            "key": "Uchida_Aya",
+            "value": ""
+        },
+        {
+            "id": "3",
+            "name": "三森すずこ",
+            "symbolSize": 24,
+            "category": 3,
+            "key": "Mimori_Suzuko",
+            "value": ""
+        },
+        {
+            "id": "4",
+            "name": "飯田 里穂",
+            "symbolSize": 24,
+            "category": 4,
+            "key": "Iida_Riho",
+            "value": ""
+        },
+        {
+            "id": "5",
+            "name": "Pile",
+            "symbolSize": 24,
+            "category": 5,
+            "key": "Pile",
+            "value": ""
+        },
+        {
+            "id": "6",
+            "name": "楠田 亜衣奈",
+            "symbolSize": 24,
+            "category": 6,
+            "key": "Kusuda_Aina",
+            "value": ""
+        },
+        {
+            "id": "7",
+            "name": "久保 ユリカ",
+            "symbolSize": 24,
+            "category": 7,
+            "key": "Kubo_Yurika",
+            "value": ""
+        },
+        {
+            "id": "8",
+            "name": "徳井 青空",
+            "symbolSize": 24,
+            "category": 8,
+            "key": "Tokui_Sora",
+            "value": ""
+        },
+        {
+            "id": "9",
+            "name": "伊波 杏樹",
+            "symbolSize": 24,
+            "category": 9,
+            "key": "Inami_Anju",
+            "value": ""
+        },
+        {
+            "id": "10",
+            "name": "逢田 梨香子",
+            "symbolSize": 24,
+            "category": 10,
+            "key": "Aida_Rikako",
+            "value": ""
+        },
+        {
+            "id": "11",
+            "name": "諏訪 ななか",
+            "symbolSize": 24,
+            "category": 11,
+            "key": "Suwa_Nanaka",
+            "value": ""
+        },
+        {
+            "id": "12",
+            "name": "小宮 有紗",
+            "symbolSize": 24,
+            "category": 12,
+            "key": "Komiya_Arisa",
+            "value": ""
+        },
+        {
+            "id": "13",
+            "name": "斉藤 朱夏",
+            "symbolSize": 24,
+            "category": 13,
+            "key": "Saito_Shuka",
+            "value": ""
+        },
+        {
+            "id": "14",
+            "name": "小林 愛香",
+            "symbolSize": 24,
+            "category": 14,
+            "key": "Kobayashi_Aika",
+            "value": ""
+        },
+        {
+            "id": "15",
+            "name": "高槻 かなこ",
+            "symbolSize": 24,
+            "category": 15,
+            "key": "Takatsuki_Kanako",
+            "value": ""
+        },
+        {
+            "id": "16",
+            "name": "鈴木 愛奈",
+            "symbolSize": 24,
+            "category": 16,
+            "key": "Suzuki_Aina",
+            "value": ""
+        },
+        {
+            "id": "17",
+            "name": "降幡 愛",
+            "symbolSize": 24,
+            "category": 17,
+            "key": "Furihata_Ai",
+            "value": ""
+        },
+        {
+            "id": "18",
+            "name": "佐藤 日向",
+            "symbolSize": 24,
+            "category": 18,
+            "key": "Sato_Hinata",
+            "value": ""
+        },
+        {
+            "id": "19",
+            "name": "田野 アサミ",
+            "symbolSize": 24,
+            "category": 19,
+            "key": "Tano_Asami",
+            "value": ""
+        },
+        {
+            "id": "20",
+            "name": "大西 亜玖璃",
+            "symbolSize": 24,
+            "category": 20,
+            "key": "Onishi_Aguri",
+            "value": ""
+        },
+        {
+            "id": "21",
+            "name": "相良 茉優",
+            "symbolSize": 24,
+            "category": 21,
+            "key": "Sagara_Mayu",
+            "value": ""
+        },
+        {
+            "id": "22",
+            "name": "前田 佳織里",
+            "symbolSize": 24,
+            "category": 22,
+            "key": "Maeda_Kaori",
+            "value": ""
+        },
+        {
+            "id": "23",
+            "name": "久保田 未夢",
+            "symbolSize": 24,
+            "category": 23,
+            "key": "Kubota_Miyu",
+            "value": ""
+        },
+        {
+            "id": "24",
+            "name": "村上 奈津実",
+            "symbolSize": 24,
+            "category": 24,
+            "key": "Murakami_Natsumi",
+            "value": ""
+        },
+        {
+            "id": "25",
+            "name": "鬼頭 明里",
+            "symbolSize": 24,
+            "category": 25,
+            "key": "Kito_Akari",
+            "value": ""
+        },
+        {
+            "id": "26",
+            "name": "楠木 ともり",
+            "symbolSize": 24,
+            "category": 26,
+            "key": "Kusunoki_Tomori",
+            "value": ""
+        },
+        {
+            "id": "27",
+            "name": "指出 毬亜",
+            "symbolSize": 24,
+            "category": 27,
+            "key": "Sashide_Maria",
+            "value": ""
+        },
+        {
+            "id": "28",
+            "name": "田中 ちえ美",
+            "symbolSize": 24,
+            "category": 28,
+            "key": "Tanaka_Chiemi",
+            "value": ""
+        },
+        {
+            "id": "29",
+            "name": "小泉 萌香",
+            "symbolSize": 24,
+            "category": 29,
+            "key": "Koizumi_Moeka",
+            "value": ""
+        },
+        {
+            "id": "30",
+            "name": "内田 秀",
+            "symbolSize": 24,
+            "category": 30,
+            "key": "Uchida_Shu",
+            "value": ""
+        },
+        {
+            "id": "31",
+            "name": "法元 明菜",
+            "symbolSize": 24,
+            "category": 31,
+            "key": "Houmoto_Akina",
+            "value": ""
+        },
+        {
+            "id": "32",
+            "name": "矢野 妃菜喜",
+            "symbolSize": 24,
+            "category": 32,
+            "key": "Yano_Hinaki",
+            "value": ""
+        },
+        {
+            "id": "33",
+            "name": "伊達 さゆり",
+            "symbolSize": 24,
+            "category": 33,
+            "key": "Date_Sayuri",
+            "value": ""
+        },
+        {
+            "id": "34",
+            "name": "Liyuu",
+            "symbolSize": 24,
+            "category": 34,
+            "key": "Liyuu",
+            "value": ""
+        },
+        {
+            "id": "35",
+            "name": "岬 なこ",
+            "symbolSize": 24,
+            "category": 35,
+            "key": "Misaki_Nako",
+            "value": ""
+        },
+        {
+            "id": "36",
+            "name": "ペイトン 尚未",
+            "symbolSize": 24,
+            "category": 36,
+            "key": "Payton_Naomi",
+            "value": ""
+        },
+        {
+            "id": "37",
+            "name": "青山 なぎさ",
+            "symbolSize": 24,
+            "category": 37,
+            "key": "Aoyama_Nagisa",
+            "value": ""
+        }
+    ],
+    "links": [
+        {
+            "source": "1",
+            "target": "0",
+            "value": "<img style='width:441px;height:330px;' src=/static/a.jpg/>"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Nitta Emi"
+        },
+        {
+            "name": "南條 愛乃"
+        },
+        {
+            "name": "内田 彩"
+        },
+        {
+            "name": "三森すずこ"
+        },
+        {
+            "name": "飯田 里穂"
+        },
+        {
+            "name": "Pile"
+        },
+        {
+            "name": "楠田 亜衣奈"
+        },
+        {
+            "name": "久保 ユリカ"
+        },
+        {
+            "name": "徳井 青空"
+        },
+        {
+            "name": "伊波 杏樹"
+        },
+        {
+            "name": "逢田 梨香子"
+        },
+        {
+            "name": "諏訪 ななか"
+        },
+        {
+            "name": "小宮 有紗"
+        },
+        {
+            "name": "斉藤 朱夏"
+        },
+        {
+            "name": "小林 愛香"
+        },
+        {
+            "name": "高槻 かなこ"
+        },
+        {
+            "name": "鈴木 愛奈"
+        },
+        {
+            "name": "降幡 愛"
+        },
+        {
+            "name": "佐藤 日向"
+        },
+        {
+            "name": "田野 アサミ"
+        },
+        {
+            "name": "大西 亜玖璃"
+        },
+        {
+            "name": "相良 茉優"
+        },
+        {
+            "name": "前田 佳織里"
+        },
+        {
+            "name": "久保田 未夢"
+        },
+        {
+            "name": "村上 奈津実"
+        },
+        {
+            "name": "鬼頭 明里"
+        },
+        {
+            "name": "楠木 ともり"
+        },
+        {
+            "name": "指出 毬亜"
+        },
+        {
+            "name": "田中 ちえ美"
+        },
+        {
+            "name": "小泉 萌香"
+        },
+        {
+            "name": "内田 秀"
+        },
+        {
+            "name": "法元 明菜"
+        },
+        {
+            "name": "矢野 妃菜喜"
+        },
+        {
+            "name": "伊達 さゆり"
+        },
+        {
+            "name": "Liyuu"
+        },
+        {
+            "name": "岬 なこ"
+        },
+        {
+            "name": "ペイトン 尚未"
+        },
+        {
+            "name": "青山 なぎさ"
+        }
+    ]
+}
